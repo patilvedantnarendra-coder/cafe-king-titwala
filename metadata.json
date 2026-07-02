@@ -1,0 +1,6 @@
+{
+  "name": "Cafe King Titwala",
+  "description": "A local Veg and Non-Veg Cafe Ordering Management System for Cafe King Titwala featuring table ordering and a comprehensive real-time Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
